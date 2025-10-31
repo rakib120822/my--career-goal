@@ -1,69 +1,59 @@
-# 🚀💼 The Career Mission 2025
+My Career Goal
 
-### Welcome to Assignment 1 of Sohoz 😎, Sorol 😁 & Simple 🤩
+My Career Goal is a static homepage built using HTML and CSS. The webpage represents personal career aspirations and includes a simple, clean design with sections that make the content easy to follow and visually appealing.
 
-Hey Future Dev! 🔥  
-Your mission — should you choose to accept — is to build an **attractive & simple Landing Page** for:  
+Live Website: https://rakib120822.github.io/my--career-goal/
 
-> 💼 **"The Career Mission"**
+Project Overview
 
-This is your chance to **showcase your passion 💖** and tell the world how badly you want to become a **crazy level developer 🧑‍💻👩‍💻**.  
+The purpose of this project is to create a personal landing page that highlights career goals and ambitions.
+The design focuses on clarity and structure, providing a hero section for introduction, a video section to inspire or explain, a target section displaying key objectives, and a footer containing useful social links.
 
----
+Technologies Used
 
-## 🧠 Marking System — Total: 60 Marks
+HTML5
 
-Our marking system is divided into two exciting categories:
+CSS3
 
-### ✅ Main Marks — 50  
-Get these by fulfilling the basic yet essential requirements to build your landing page like a pro 😎
+Key Features
 
-### 🔥 Challenge Marks — 10  
-For the brave souls! 😤  
-Take your project to the next level 🚀 by solving real-time challenges and learning like a ninja 🥷  
+Hero section with an introductory message
 
----
+Embedded YouTube video section for visual engagement
 
-## 🎯 Your Mission  
-🎥 **Watch the video** provided in the Bootcamp  
-📝 **Take proper notes**  
-🎯 And **complete the landing page** exactly as shown!
+Target section with three informative cards representing goals
 
----
+Footer with social media links for easy connection
 
-## 🎨 UI Design Resources  
+Fully responsive and simple layout
 
-To help you craft the perfect UI, we’ve provided:
+Beginner-friendly, easy to modify and expand
 
-- 📁 **Figma File** – Design inspiration 💡  
-- 🖼️ **Images** – Assets for your visuals 🖌️  
-- 🧊 **PNG File** – Ready to use in your project  
 
-💾 **Download the resources** & get started on your career-launching mission! 🚀
 
----
+How to Use
 
-## ⏰ Deadline  
+Clone the repository:
 
-📅 **Assignment-01 Deadline:**  
-🕛 **May 27,  11:59 PM** (Don't be late 🚩)
+git clone https://github.com/rakib120822/my--career-goal.git
 
----
 
-## 🚩 What to Submit  
+Navigate to the project folder:
 
-- Your Code Repository Link 
-- Your Live Link 
-- Submit the Form on Bootcamp Website with All the fields  
+cd my--career-goal
 
----
 
-## 🖼️ Sample Preview  
+Open the index.html file in your browser to view the webpage.
 
-Here’s a sneak peek of what you’re going to build:  
-<img src="career-mission-25.png" width="100%"/>
+Future Improvements
 
----
+Add JavaScript for interactivity (for example, animations or scroll effects)
 
-> 💬 *“Good code is its own best documentation.”*  
-Let your code speak your passion ❤️‍🔥  
+Create additional pages such as “About Me” or “Contact”
+
+Improve design with advanced CSS features or frameworks like Tailwind CSS
+
+Author
+
+Developed by Rakibul Islam Payel
+GitHub: https://github.com/rakib120822
